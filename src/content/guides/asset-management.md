@@ -25,8 +25,8 @@ __dist/index.html__
   <!doctype html>
   <html>
     <head>
--    <title>Getting Started</title>
-+    <title>Asset Management</title>
+-    <title>起步</title>
++    <title>管理资源</title>
     </head>
     <body>
       <script src="./bundle.js"></script>
